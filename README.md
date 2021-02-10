@@ -42,5 +42,6 @@ First Login with the credentials
 Then get yor location from profile and search it and add a friend near you.(If location is not specified a random friends of friends is added
 Then it make a text post with the content you provided in the beginning.
 And then comment on a random friend's Timeline's first Post with the comment content you provided.
+Then run the script
 
 # Done :wink:
